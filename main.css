@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    gap: 1rem;
+
+}
+.boxes{
+    display: flex;
+    margin-top: 1rem;
+    gap: 1rem;
+}
